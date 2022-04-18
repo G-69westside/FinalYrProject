@@ -1,2 +1,2 @@
 # 4.2finalproject
-This is my final year crime reporting web app project
+This is my final year barbershop ecommerce website
