@@ -16,4 +16,3 @@
 		echo "Failed to connect with database ! ".$ex->getMessage();
 		die();
 	}
-?>
