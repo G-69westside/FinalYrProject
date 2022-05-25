@@ -115,7 +115,7 @@ include 'Includes/functions/functions.php';
 	<footer class="sticky-footer bg-white">
 		<div class="container my-auto">
 			<div class="copyright text-center my-auto">
-				<span>Copyright &copy; Barbershop Website by JAIRI IDRISS 2020</span>
+				<span>Copyright &copy; Barbershop Website by TONY NDEREVA MALUKI</span>
 			</div>
 		</div>
 	</footer>

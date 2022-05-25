@@ -5,7 +5,10 @@
 	<footer class="sticky-footer bg-white">
 		<div class="container my-auto">
 			<div class="copyright text-center my-auto">
-				<span>Copyright &copy; Barbershop Website by JAIRI IDRISS 2020</span>
+				<span>Copyright &copy; Barbershop Website by TONY NDEREVA MALUKI </span>
+				<script type='text/javascript'>
+					document.write(new Date().getFullYear())
+				</script>
 			</div>
 		</div>
 	</footer>
@@ -39,8 +42,10 @@
 	</div>
 
 	<!-- INCLUDE JS SCRIPTS -->
-	<script src="Design/js/jquery.min.js"></script>
-	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+	<script src="Design/js/jquery.min.js">
+		< /scrip> <
+		script src = "https://unpkg.com/sweetalert/dist/sweetalert.min.js" >
+	</script>
 	<script src="Design/js/bootstrap.bundle.min.js"></script>
 	<script src="Design/js/sb-admin-2.min.js"></script>
 	<script src="Design/js/main.js"></script>

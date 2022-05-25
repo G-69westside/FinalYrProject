@@ -221,7 +221,7 @@ if (isset($_SESSION['username_barbershop_Xw211qAAsq4']) && isset($_SESSION['pass
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <label for="service_price">Service Price($)</label>
+                                    <label for="service_price">Service Price(KES)</label>
                                     <input type="text" class="form-control" value="<?php echo (isset($_POST['service_price'])) ? htmlspecialchars($_POST['service_price']) : '' ?>" placeholder="Service Price" name="service_price">
                                     <?php
 
@@ -421,7 +421,7 @@ if (isset($_SESSION['username_barbershop_Xw211qAAsq4']) && isset($_SESSION['pass
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="service_price">Service Price($)</label>
+                                            <label for="service_price">Service Price(KES)</label>
                                             <input type="text" class="form-control" value="<?php echo $service['service_price'] ?>" placeholder="Service Price" name="service_price">
                                             <?php
 
