@@ -77,7 +77,7 @@ include "Includes/templates/navbar.php";
             <div class="col-md-6">
                 <div class="about_content" style="text-align: center;">
                     <h3>Introducing</h3>
-                    <h2>The Barber Shop <br>Science 1991</h2>
+                    <h2>The Barber Shop <br>Science 2021</h2>
                     <img src="Design/images/about-logo.png" alt="logo">
                     <p style="color: #777">
                         Barber is a person whose occupation is mainly to cut dress groom style and shave men's and boys' hair. A barber's place of work is known as a "barbershop" or a "barber's". Barbershops are also places of social interaction and public discourse. In some instances, barbershops are also public forums.
@@ -368,7 +368,7 @@ include "Includes/templates/navbar.php";
                                     <li>
                                         <h4><?php echo $service['service_name'] ?></h4>
                                         <p><?php echo $service['service_description'] ?></p>
-                                        <span class="price">$<?php echo $service['service_price'] ?></span>
+                                        <span class="price">KES <?php echo $service['service_price'] ?></span>
                                     </li>
 
                                 <?php
@@ -405,19 +405,19 @@ include "Includes/templates/navbar.php";
                         Saasbiz is a different kind of architecture practice. Founded by LoganCee in 1991, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.
                     </p>
                     <h3>
-                        198 West 21th Street, Suite 721
+                        NAIROBI, UMOJA 1 ESTATE
                         <br>
-                        New York, NY 10010
+                        PEWA STREET -90200
                     </h3>
                     <h4>
                         <span style="font-weight: bold">Email:</span>
-                        Dynamiclayers.Net
+                        Tonymaluki@gmail.com
                         <br>
                         <span style="font-weight: bold">Phone:</span>
-                        +88 (0) 101 0000 000
+                        +254 714444593
                         <br>
                         <span style="font-weight: bold">Fax:</span>
-                        +88 (0) 202 0000 001
+                        +254 112154469
                     </h4>
                 </div>
             </div>
@@ -480,12 +480,12 @@ include "Includes/templates/navbar.php";
                 <div class="footer_widget">
                     <h3>Headquarters</h3>
                     <p>
-                        962 Fifth Avenue, 3rd Floor New York, NY10022
+                        NAIROBI,UMOJA 1 ESTATE ,Pewa street
                     </p>
                     <p>
-                        contact@barbershop.com
+                        tonymaluki@gmail.com
                         <br>
-                        (+123) 456 789 101
+                        +254 714444593
                     </p>
                 </div>
             </div>

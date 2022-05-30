@@ -136,7 +136,7 @@ include "Includes/templates/navbar.php";
 						echo "</span>";
 						echo "<div class = 'service_price_field'>";
 						echo "<span style = 'font-weight: bold;'>";
-						echo $row['service_price'] . "$";
+						echo $row['service_price'] . "KES";
 						echo "</span>";
 						echo "</div>";
 					?>
