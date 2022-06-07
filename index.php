@@ -77,7 +77,7 @@ include "Includes/templates/navbar.php";
             <div class="col-md-6">
                 <div class="about_content" style="text-align: center;">
                     <h3>Introducing</h3>
-                    <h2>The Barber Shop <br>Science 2021</h2>
+                    <h2>The Barber Shop <br>Science 2022</h2>
                     <img src="Design/images/about-logo.png" alt="logo">
                     <p style="color: #777">
                         Barber is a person whose occupation is mainly to cut dress groom style and shave men's and boys' hair. A barber's place of work is known as a "barbershop" or a "barber's". Barbershops are also places of social interaction and public discourse. In some instances, barbershops are also public forums.
@@ -468,10 +468,10 @@ include "Includes/templates/navbar.php";
                         Our barbershop is the created for men who appreciate premium quality, time and flawless look.
                     </p>
                     <ul class="widget_social">
-                        <li><a href="#" data-toggle="tooltip" title="Facebook"><i class="fab fa-facebook-f fa-2x"></i></a></li>
-                        <li><a href="#" data-toggle="tooltip" title="Twitter"><i class="fab fa-twitter fa-2x"></i></a></li>
-                        <li><a href="#" data-toggle="tooltip" title="Instagram"><i class="fab fa-instagram fa-2x"></i></a></li>
-                        <li><a href="#" data-toggle="tooltip" title="LinkedIn"><i class="fab fa-linkedin fa-2x"></i></a></li>
+                        <li><a href="https://web.facebook.com/vendova" target="_blank" data-toggle="tooltip" title="Facebook"><i class="fab fa-facebook-f fa-2x"></i></a></li>
+                        <li><a href="https://twitter.com/asap_toni" target="_blank" data-toggle="tooltip" title="Twitter"><i class="fab fa-twitter fa-2x"></i></a></li>
+                        <li><a href="https://www.instagram.com/life.astony/" target="_blank" data-toggle="tooltip" title="Instagram"><i class="fab fa-instagram fa-2x"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/tony-maluki-9b9611173/" target="_blank" data-toggle="tooltip" title="LinkedIn"><i class="fab fa-linkedin fa-2x"></i></a></li>
                         <li><a href="#" data-toggle="tooltip" title="Google+"><i class="fab fa-google-plus-g fa-2x"></i></a></li>
                     </ul>
                 </div>
@@ -495,10 +495,10 @@ include "Includes/templates/navbar.php";
                         Opening Hours
                     </h3>
                     <ul class="opening_time">
-                        <li>Monday - Friday 11:30am - 2:008pm</li>
-                        <li>Monday - Friday 11:30am - 2:008pm</li>
-                        <li>Monday - Friday 11:30am - 2:008pm</li>
-                        <li>Monday - Friday 11:30am - 2:008pm</li>
+                        <li>Monday - Friday 11:30am - 2:00pm</li>
+                        <li>Monday - Friday 11:30am - 2:00pm</li>
+                        <li>Monday - Friday 11:30am - 2:00pm</li>
+                        <li>Monday - Friday 11:30am - 2:00pm</li>
                     </ul>
                 </div>
             </div>

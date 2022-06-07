@@ -86,7 +86,8 @@ body
 }
 .header-section
 {
-	background-color:#222227;
+	/* background-color:#222227; */
+    background-color: #2e5859;
 	width:100%;
 	height:80px;
 	z-index:999;
@@ -124,7 +125,8 @@ ul.nav>li>a
 }
 .header-btn .menu-btn 
 { 
-	background-color: #9e8a78; 
+	/* background-color: #9e8a78;  */
+    background-color: #c242db;
 	font-family: work sans,sans-serif; 
 	font-size: 12px; 
 	text-transform: uppercase; 
@@ -309,7 +311,7 @@ ul.nav>li>a
 {
     font-family: "Work Sans",sans-serif;
     letter-spacing: 0;
-    background-color: #9e8a78;
+    background-color: #000;
     color: #fff;
     line-height: 45px;
     display: inline-block;
@@ -353,7 +355,8 @@ ul.nav>li>a
     left: 0;
     bottom: 0;
     right: 0;
-    background: #222227;
+    /* background: #222227; */
+    background:#A446C1;
     -webkit-transform-origin: right center;
     -moz-transform-origin: right center;
     -ms-transform-origin: right center;
@@ -420,7 +423,7 @@ ul.nav>li>a
 
 .section_heading h3
 {
-    color: #9e8a78;
+    color: #9e8;
     font-weight: 400;
     font-family: 'Prata', sans-serif;
     font-size: 17px;
@@ -596,7 +599,7 @@ ul.nav>li>a
 }
 .subscribe_form .submit 
 {
-    background-color: #9e8a78;
+    background-color: #9e8;
     color: #fff;
     font-family: "Work Sans", sans-serif;
     font-size: 12px;
