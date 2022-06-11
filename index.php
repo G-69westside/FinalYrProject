@@ -89,7 +89,7 @@ include "Includes/templates/navbar.php";
                         We provide quality services at a fair price. We strive to meet customer satisfaction.
 
                     </p>
-                    <a href="#" class="default_btn" style="opacity: 1;">More about us</a>
+                    <a href="#" class="default_btn" style="opacity: 1;">Learn More about us</a>
                 </div>
             </div>
             <div class="col-md-6  d-none d-md-block">
@@ -108,8 +108,8 @@ include "Includes/templates/navbar.php";
 <section class="services_section" id="services">
     <div class="container">
         <div class="section_heading">
-            <h3>Trendy Salon & Spa</h3>
-            <h2>Our Services</h2>
+            <h3>Tony Maluki Barbershop & Spa</h3>
+            <h2>Services We Offer.</h2>
             <div class="heading-line"></div>
         </div>
         <div class="row">
@@ -117,28 +117,37 @@ include "Includes/templates/navbar.php";
                 <div class="service_box">
                     <i class="bs bs-scissors-1"></i>
                     <h3>Haircut Styles</h3>
-                    <p>Barber is a person whose occupation is mainly to cut dress style.</p>
+                    <p>Buzz Cut.</p>
+                    <p>Crew Cut.</p>
+                    <p>All cut styles Available</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 padd_col_res">
                 <div class="service_box">
                     <i class="bs bs-razor-2"></i>
                     <h3>Beard Triming</h3>
-                    <p>Barber is a person whose occupation is mainly to cut dress style.</p>
+                    <p>Circle Beard</p>
+                    <p>Goatee</p>
+                    <p>Van Dyke Beard</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 padd_col_res">
                 <div class="service_box">
                     <i class="bs bs-brush"></i>
                     <h3>Smooth Shave</h3>
-                    <p>Barber is a person whose occupation is mainly to cut dress style.</p>
+                    <p>Mohawk Smooth shave</p>
+                    <p>Ballotelli Smooth Shave </p>
+                    <p>Fade Smooth Shave</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 padd_col_res">
                 <div class="service_box">
                     <i class="bs bs-hairbrush-1"></i>
                     <h3>Face Masking</h3>
-                    <p>Barber is a person whose occupation is mainly to cut dress style.</p>
+                    <p>scrabbing</p>
+                    <p>Pimple removal</p>
+                    <p>Face Fat removal</p>
+                    <p></p>
                 </div>
             </div>
         </div>
@@ -157,7 +166,7 @@ include "Includes/templates/navbar.php";
                     <div class="book_content">
                         <h2 style="color: white;">Make an appointment</h2>
                         <p style="color: #999;">
-                            Barber is a person whose occupation is mainly to cut dress groom <br>style and shave men's and boys hair.
+                            Use our fast ,easy and secure system <br>to book for services to be shaved at your home.
                         </p>
                     </div>
                     <div class="form-group row">
@@ -184,7 +193,7 @@ include "Includes/templates/navbar.php";
 
 <section class="gallery-section" id="gallery">
     <div class="section_heading">
-        <h3>Trendy Salon & Spa</h3>
+        <h3>Tony Barbershop & Spa</h3>
         <h2>Barbers Gallery</h2>
         <div class="heading-line"></div>
     </div>
@@ -239,7 +248,7 @@ include "Includes/templates/navbar.php";
 <section id="team" class="team_section">
     <div class="container">
         <div class="section_heading ">
-            <h3>Trendy Salon & Spa</h3>
+            <h3>Tony Barbershop & Spa</h3>
             <h2>Our Barbers</h2>
             <div class="heading-line"></div>
         </div>
