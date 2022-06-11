@@ -23,11 +23,11 @@ include "Includes/templates/navbar.php";
                 <div class="carousel-item active">
                     <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide">
                     <div class="carousel-caption d-md-block">
-                        <h3>It's Not Just a Haircut, It's an Experience.</h3>
+                        <h3>We provide top quality barber services.</h3>
                         <p>
-                            Our barbershop is the territory created purely for males who appreciate
+                            Whether it's your next date,work or travel,
                             <br>
-                            premium quality, time and flawless look.
+                            we make sure you are sparkling good-looking hot and clean
                         </p>
                     </div>
                 </div>
@@ -35,11 +35,11 @@ include "Includes/templates/navbar.php";
                 <div class="carousel-item">
                     <img class="d-block w-100" src="Design/images/barbershop_image_2.jpg" alt="Second slide">
                     <div class="carousel-caption d-md-block">
-                        <h3>It's Not Just a Haircut, It's an Experience.</h3>
+                        <h3>We strive to provide the best service experience.</h3>
                         <p>
-                            Our barbershop is the territory created purely for males who appreciate
+                            Our expeienced and well-trained barbers
                             <br>
-                            premium quality, time and flawless look.
+                            make sure you look good and clean
                         </p>
                     </div>
                 </div>
@@ -47,11 +47,11 @@ include "Includes/templates/navbar.php";
                 <div class="carousel-item">
                     <img class="d-block w-100" src="Design/images/barbershop_image_3.jpg" alt="Third slide">
                     <div class="carousel-caption d-md-block">
-                        <h3>It's Not Just a Haircut, It's an Experience.</h3>
+                        <h3></h3>
                         <p>
-                            Our barbershop is the territory created purely for males who appreciate
+                            We provide quality services at a fair price
                             <br>
-                            premium quality, time and flawless look.
+                            We strive to meet customer satisfaction
                         </p>
                     </div>
                 </div>
@@ -77,10 +77,17 @@ include "Includes/templates/navbar.php";
             <div class="col-md-6">
                 <div class="about_content" style="text-align: center;">
                     <h3>Introducing</h3>
-                    <h2>The Barber Shop <br>Science 2022</h2>
+                    <h2>Tony Maluki Barbershop.<br>Established 2022</h2>
                     <img src="Design/images/about-logo.png" alt="logo">
                     <p style="color: #777">
-                        Barber is a person whose occupation is mainly to cut dress groom style and shave men's and boys' hair. A barber's place of work is known as a "barbershop" or a "barber's". Barbershops are also places of social interaction and public discourse. In some instances, barbershops are also public forums.
+
+
+                        We provide top quality barber services.
+                        Whether it's your next date,work or travel,we make sure you are sparkling good-looking hot and clean.
+                        We strive to provide the best service experience.
+                        Our expeienced and well-trained barbers make sure you look good and clean.
+                        We provide quality services at a fair price. We strive to meet customer satisfaction.
+
                     </p>
                     <a href="#" class="default_btn" style="opacity: 1;">More about us</a>
                 </div>
