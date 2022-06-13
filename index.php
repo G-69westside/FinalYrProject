@@ -520,7 +520,7 @@ include "Includes/templates/navbar.php";
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="footer_widget">
-                    <h3>Subscribe to our contents</h3>
+                    <h3>Subscribe to weekly Newsletter</h3>
                     <div class="subscribe_form">
                         <form action="#" class="subscribe_form" novalidate="true">
                             <input type="email" name="EMAIL" id="subs-email" class="form_input" placeholder="Email Address...">

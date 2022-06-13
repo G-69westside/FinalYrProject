@@ -477,7 +477,8 @@ ul.nav > li > a:hover{
 /*** START WIDGET SECTION - FOOTER STYLE ***/
 
 .widget_section {
-  background-color: #222227;
+  /* background-color: #222227; */
+  background-color: brown;
   padding: 100px 0;
 }
 

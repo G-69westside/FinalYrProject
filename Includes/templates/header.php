@@ -1,32 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-	
-	<!-- HEAD -->
 
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
-		<meta name="description" content="Barbershop Booking Space">
-		<meta name="author" content="JAIRI IDRISS">
-		<title>Barber Shop || BarberShop Hair Salon</title>
+<!-- HEAD -->
 
-		<!-- EXTERNAL CSS LINKS -->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
+	<meta name="description" content="Barbershop Booking Space">
+	<meta name="author" content="Tony Maluki">
+	<title>Tony Barbershop</title>
+	<link rel="shortcut icon" href="/Design/images/favicon.ico" type="image/x-icon">
 
-		<link rel="stylesheet" type="text/css" href="Design/css/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" href="Design/fonts/css/all.min.css">
-		<link rel="stylesheet" type="text/css" href="Design/css/main.css">
-		<link rel="stylesheet" type="text/css" href="Design/css/responsive.css">
-		<link rel="stylesheet" type="text/css" href="Design/css/barber-icons.css">
+	<!-- EXTERNAL CSS LINKS -->
 
-		<!-- GOOGLE FONTS -->
+	<link rel="stylesheet" type="text/css" href="Design/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="Design/fonts/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="Design/css/main.css">
+	<link rel="stylesheet" type="text/css" href="Design/css/responsive.css">
+	<link rel="stylesheet" type="text/css" href="Design/css/barber-icons.css">
 
-		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
 
-	</head>
 
-	<!-- BODY -->
+	<!-- GOOGLE FONTS -->
 
-	<body>
-	
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
+
+</head>
+
+<!-- BODY -->
+
+<body>
