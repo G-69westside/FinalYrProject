@@ -78,7 +78,7 @@ include "Includes/templates/navbar.php";
                 <div class="about_content" style="text-align: center;">
                     <h3>Introducing</h3>
                     <h2>Tony Maluki Barbershop.<br>Established 2022</h2>
-                    <img src="Design/images/about-logo.png" alt="logo">
+                    <img src="Design/images/tony-2.png" style = "width:50%" alt="logo">
                     <p style="color: #777">
 
 
@@ -95,8 +95,8 @@ include "Includes/templates/navbar.php";
             <div class="col-md-6  d-none d-md-block">
                 <div class="about_img" style="overflow:hidden">
                     <img class="about_img_1" src="Design/images/about-1.jpg" alt="about-1">
-                    <img class="about_img_2" src="Design/images/about-2.jpg" alt="about-2">
-                    <img class="about_img_3" src="Design/images/about-3.jpg" alt="about-3">
+                    <!-- <img class="about_img_2" src="Design/images/about-2.jpg" alt="about-2">
+                    <img class="about_img_3" src="Design/images/about-3.jpg" alt="about-3"> -->
                 </div>
             </div>
         </div>

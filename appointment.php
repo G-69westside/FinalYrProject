@@ -82,7 +82,7 @@ include "Includes/templates/navbar.php";
 				}
 
 				echo "<div class = 'alert alert-success'>";
-				echo "Great! Your appointment has been created successfully You will be contacted by our sales team within 10 minutes.";
+				echo "Great! Your appointment has been booked successfully. You will be contacted by our sales team within 10 minutes.";
 				echo "</div>";
 
 				$con->commit();
