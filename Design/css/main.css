@@ -405,7 +405,8 @@ ul.nav > li > a:hover {
 /*** START REVIEWS SECTION STYLE ***/
 
 .testimonial_section {
-  background-image: url(../images/testimonial.jpg);
+  /* background-image: url(../images/testimonial.jpg); */
+  background-image: url(../images/combined.JPG);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 0 0;

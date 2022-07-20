@@ -21,7 +21,8 @@ include "Includes/templates/navbar.php";
             <div class="carousel-inner">
                 <!-- FIRST SLIDE -->
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide">
+                    <img class="d-block w-100" src="Design/images/first_slide.JPG" alt="First slide">
+                    <!-- <img class="d-block w-100" src="Design/images/slide_1.JPG" alt="First slide"> -->
                     <div class="carousel-caption d-md-block">
                         <h3>We provide top quality barber services.</h3>
                         <p>
@@ -33,7 +34,8 @@ include "Includes/templates/navbar.php";
                 </div>
                 <!-- SECOND SLIDE -->
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="Design/images/barbershop_image_2.jpg" alt="Second slide">
+                    <!-- <img class="d-block w-100" src="Design/images/barbershop_image_2.jpg" alt="Second slide"> -->
+                    <img class="d-block w-100" src="Design/images/first_slide.JPG" alt="Second slide">
                     <div class="carousel-caption d-md-block">
                         <h3>We strive to provide the best service experience.</h3>
                         <p>
@@ -45,7 +47,8 @@ include "Includes/templates/navbar.php";
                 </div>
                 <!-- THIRD SLIDE -->
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="Design/images/barbershop_image_3.jpg" alt="Third slide">
+                    <!-- <img class="d-block w-100" src="Design/images/barbershop_image_3.jpg" alt="Third slide"> -->
+                    <img class="d-block w-100" src="Design/images/first_slide.JPG" alt="Third slide">
                     <div class="carousel-caption d-md-block">
                         <h3></h3>
                         <p>
@@ -192,7 +195,7 @@ include "Includes/templates/navbar.php";
 
 <!-- GALLERY SECTION -->
 
-<!-- <section class="gallery-section" id="gallery">
+<section class="gallery-section" id="gallery">
     <div class="section_heading">
         <h3>Tony Barbershop & Spa</h3>
         <h2>Barbers Gallery</h2>
@@ -242,7 +245,7 @@ include "Includes/templates/navbar.php";
             </div>
         </div>
     </div>
-</section> -->
+</section>
 
 <!-- TEAM SECTION -->
 
@@ -257,13 +260,13 @@ include "Includes/templates/navbar.php";
             <li class="col-lg-3 col-md-6 padd_col_res">
                 <div class="team_member">
                     <!-- <img src="Design/images/team-1.jpg" alt="Team Member"> -->
-                    <img src="Design/images/tony.jpg" alt="Team Member">
+                    <img src="Design/images/patricia2.JPG" alt="Team Member">
                 </div>
             </li>
             <li class="col-lg-3 col-md-6 padd_col_res">
                 <div class="team_member">
                     <!-- <img src="Design/images/team-2.jpg" alt="Team Member"> -->
-                    <img src="Design/images/patricia.jpg" alt="Team Member">
+                    <img src="Design/images/p_t_d.JPG" alt="Team Member">
                 </div>
             </li>
             <li class="col-lg-3 col-md-6 padd_col_res">
@@ -293,7 +296,8 @@ include "Includes/templates/navbar.php";
             <div class="carousel-inner">
                 <!-- REVIEW 1 -->
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide" style="visibility: hidden;">
+                    <!-- <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide" style="visibility: hidden;"> -->
+                    <img class="d-block w-100" src="Design/images/combined.JPG" alt="First slide" style="visibility: hidden;">
                     <div class="carousel-caption d-md-block">
                         <h3>Its Not Just a Haircut, Its an Experience.</h3>
                         <p>
@@ -305,7 +309,8 @@ include "Includes/templates/navbar.php";
                 </div>
                 <!-- REVIEW 2 -->
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide" style="visibility: hidden;">
+                    <!-- <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide" style="visibility: hidden;">  -->
+                    <img class="d-block w-100" src="Design/images/combined.JPG" alt="First slide" style="visibility: hidden;">
                     <div class="carousel-caption d-md-block">
                         <h3>Its Not Just a Haircut, Its an Experience.</h3>
                         <p>
@@ -317,7 +322,8 @@ include "Includes/templates/navbar.php";
                 </div>
                 <!-- REVIEW 3 -->
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide" style="visibility: hidden;">
+                    <!-- <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide" style="visibility: hidden;"> -->
+                    <img class="d-block w-100" src="Design/images/combined.JPG" alt="First slide" style="visibility: hidden;">
                     <div class="carousel-caption d-md-block">
                         <h3>Its Not Just a Haircut, Its an Experience.</h3>
                         <p>
