@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Jul 13, 2022 at 11:27 AM
+-- Generation Time: Jul 27, 2022 at 06:45 PM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 7.4.28
 
@@ -48,7 +48,9 @@ INSERT INTO `appointments` (`appointment_id`, `date_created`, `client_id`, `empl
 (23, '2022-06-17 18:32:00', 22, 2, '2022-06-25 14:00:00', '2022-06-25 14:20:00', 0, NULL),
 (24, '2022-06-22 09:04:00', 23, 1, '2022-06-30 06:45:00', '2022-06-30 07:00:00', 0, NULL),
 (25, '2022-07-07 11:30:00', 24, 1, '2022-07-14 06:30:00', '2022-07-14 07:10:00', 0, NULL),
-(26, '2022-07-09 19:46:00', 25, 3, '2022-07-18 06:30:00', '2022-07-18 06:45:00', 0, NULL);
+(26, '2022-07-09 19:46:00', 25, 3, '2022-07-18 06:30:00', '2022-07-18 06:45:00', 0, NULL),
+(27, '2022-07-20 19:50:00', 26, 1, '2022-07-27 06:45:00', '2022-07-27 07:15:00', 0, NULL),
+(28, '2022-07-21 09:27:00', 27, 1, '2022-07-30 06:45:00', '2022-07-30 07:00:00', 0, NULL);
 
 -- --------------------------------------------------------
 
@@ -97,7 +99,9 @@ INSERT INTO `clients` (`client_id`, `first_name`, `last_name`, `phone_number`, `
 (22, 'client1', 'detail', '0712344323', 'client1@gmail.com'),
 (23, 'Oliver', 'Mu', '0758843977', 'oli@gmail.com'),
 (24, 'Grace', 'Mumbe', '0112153343', 'grace@gmail.com'),
-(25, 'test4', 'yes', '0743334343', 'eu@gmail.com');
+(25, 'test4', 'yes', '0743334343', 'eu@gmail.com'),
+(26, 'rggcbfhhg', 'cgchfhfvxv', '0712345533', 'dgfgfxds@gmail.com'),
+(27, 'Emmnuel', 'kosgei', '0723456854', 'emma@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -190,12 +194,12 @@ INSERT INTO `services` (`service_id`, `service_name`, `service_description`, `se
 (1, 'Hair Cut', 'A simple  clean haircut with your hair preference size', '2500.00', 15, 2),
 (2, 'Hair Styling', 'Hair styling done tailored according to your hair style goals.', '3500.00', 15, 2),
 (3, 'Hair Triming', 'Clean shaving for kids and teens', '2000.00', 10, 2),
-(4, 'Clean Shaving', 'Barber is a person whose occupation is mainly to cut dress groom style and shave men', '2500.00', 20, 2),
-(5, 'Beard Trimming', 'Barber is a person whose occupation is mainly to cut dress groom style and shave men', '3320.00', 15, 2),
-(6, 'Smooth Shave', 'Barber is a person whose occupation is mainly to cut dress groom style and shave men', '1500.00', 20, 2),
-(7, 'White Facial', 'Barber is a person whose occupation is mainly to cut dress groom style and shave men', '1850.00', 15, 3),
-(8, 'Face Cleaning', 'Barber is a person whose occupation is mainly to cut dress groom style and shave men', '1200.00', 20, 3),
-(9, 'Bright Tuning', 'Barber is a person whose occupation is mainly to cut dress groom style and shave men', '1455.00', 20, 3);
+(4, 'Clean Shaving', 'Clean shaving with a fair cut on the forehead. For those who prefer business look', '2500.00', 20, 2),
+(5, 'Beard Trimming', 'We will trim, style , wash your beards and give it a perfect look', '3320.00', 15, 2),
+(6, 'Smooth Shave', 'This is a fair well designed small shave. Good for casual occasions', '1500.00', 20, 2),
+(7, 'White Facial', 'We will scrap your face with premium quality products to give your that fresh face look', '1850.00', 15, 3),
+(8, 'Face Cleaning', 'Had a rough day? Well, look for no more, our face cleaning services will leave your face well refreshed for the night and the next day', '1200.00', 20, 3),
+(9, 'Bright Tuning', 'Our bright tuning services will leave your moist skin well refreshed and looking good as well', '1455.00', 20, 3);
 
 -- --------------------------------------------------------
 
@@ -222,7 +226,10 @@ INSERT INTO `services_booked` (`appointment_id`, `service_id`) VALUES
 (25, 1),
 (25, 2),
 (25, 3),
-(26, 5);
+(26, 5),
+(27, 1),
+(27, 5),
+(28, 1);
 
 -- --------------------------------------------------------
 
@@ -311,7 +318,7 @@ ALTER TABLE `service_categories`
 -- AUTO_INCREMENT for table `appointments`
 --
 ALTER TABLE `appointments`
-  MODIFY `appointment_id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
+  MODIFY `appointment_id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
 
 --
 -- AUTO_INCREMENT for table `barber_admin`
@@ -323,7 +330,7 @@ ALTER TABLE `barber_admin`
 -- AUTO_INCREMENT for table `clients`
 --
 ALTER TABLE `clients`
-  MODIFY `client_id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
+  MODIFY `client_id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=28;
 
 --
 -- AUTO_INCREMENT for table `employees`
